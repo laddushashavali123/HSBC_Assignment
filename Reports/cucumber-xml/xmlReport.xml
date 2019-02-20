@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="87.810043">
+<testcase classname="As a Customer I want to find a desired camera and add it to the cart and validate sub total price" name="Product page subtotal price sum is correct" time="87.810043">
+<system-out><![CDATA[Given I navigate to Amazon homepage.........................................passed
+Then I see the homepage.....................................................passed
+When I enter Best Sellers in Digital Cameras................................passed
+Then I see the products associated..........................................passed
+When I select product Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black).passed
+Then I see the product page with Add to cart button.........................passed
+And I see the Product price per item is displayed...........................passed
+And increase the quantity to 8..............................................passed
+When I click Add to cart button.............................................passed
+Then I check that correct product Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) is added.passed
+And I see the subtotal price sum is correct.................................passed
+]]></system-out>
+</testcase>
+</testsuite>

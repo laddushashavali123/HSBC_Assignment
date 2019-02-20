@@ -1,0 +1,102 @@
+2019-02-20 17:48:35 INFO com.qa.steps.Hooks Scenario is running: Product page subtotal price sum is correct 
+2019-02-20 17:48:42 INFO com.qa.driver.DriverManager >>> Chrome Driver initialized 
+2019-02-20 17:48:49 INFO com.qa.steps.Hooks >>> @Before Hook Step ends 
+2019-02-20 17:48:57 INFO com.qa.pages.AddCartPage Product Name : Samsung ST30 10 MP Compact Digital Camera (Purple) (Certified Refurbished) 
+2019-02-20 17:48:58 INFO com.qa.pages.AddCartPage Product Name : Nest Security Camera, Keep An Eye On What Matters to You, From Anywhere, For Indoor Use, Works with Alexa 
+2019-02-20 17:48:59 INFO com.qa.pages.AddCartPage Product Name : CANON 20.2-Megapixel PowerShot(R) SX620 Digital Camera (Black) (Certified Refurbished) 
+2019-02-20 17:49:01 INFO com.qa.pages.AddCartPage Product Name : Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) 
+2019-02-20 17:49:02 INFO com.qa.pages.AddCartPage Product Name : Panasonic DMC-TS25 Waterproof Digital Camera with 2.7-Inch LCD (Orange) DMC-TS25D (Certified Refurbished) 
+2019-02-20 17:49:03 INFO com.qa.pages.AddCartPage Product Name : Hidden Spy Camera Night Vision - Home Surveillance Security Cameras - Wireless Nanny Cams - USB Wall Phone Charger Spycam - Motion Sensor Video Camaras - Mini Portable Cop Cam 
+2019-02-20 17:49:04 INFO com.qa.pages.AddCartPage Product Name : Nikon Coolpix A900 4K Wi-Fi Digital Camera (Silver) - (Certified Refurbished) 
+2019-02-20 17:49:05 INFO com.qa.pages.AddCartPage Product Name : Fujifilm XP125 Waterproof Digital Camera, Graphite with Lime (Certified Refurbished) 
+2019-02-20 17:49:06 INFO com.qa.pages.AddCartPage Product Name : Canon PowerShot SX530 HS - Wi-Fi Enabled Digital Camera with deluxe accessory bundle including 32GB SDHC memory card Class 10 & lens cleaning kit + Extra Battery & AC/DC Turbo Travel Charger. 
+2019-02-20 17:49:07 INFO com.qa.pages.AddCartPage Product Name : Canon Powershot SX530 HS 16.0 MP Digital Camera with 50x Zoom, Wi-Fi & 1080p Full HD Video + Extra Battery + 32GB Memory + Spider Flexible Tripod + Deluxe Carrying Case + Prime Seller Cleaning Cloth 
+2019-02-20 17:49:08 INFO com.qa.pages.AddCartPage Product Name : Arlo - Wireless Home Security Camera System with Motion Detection | Night vision, Indoor/Outdoor, HD Video, Wall Mount | Cloud Storage Included | 3 camera kit (VMS3330) 
+2019-02-20 17:49:09 INFO com.qa.pages.AddCartPage Product Name : Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 is II Lens, Built-in WiFi and NFC - Black (Certified Refurbished) 
+2019-02-20 17:49:10 INFO com.qa.pages.AddCartPage Product Name : Samsung SDH-B74041 8 Channel 1080p HD 1TB Security Camera System with 4 Outdoor BNC Bullet Cameras SDC-9443BC (Certified Refurbished) 
+2019-02-20 17:49:11 INFO com.qa.pages.AddCartPage Product Name : Samsung Wisenet SDH-B74081BN 8 Channel 1080P Full HD DVR Video Security System with 2TB Hard Drive and 8 1080p Weather Resistant Bullet Cameras (SDC-9443BC) - (Certified Refurbished) 
+2019-02-20 17:49:12 INFO com.qa.pages.AddCartPage Product Name : Samsung Wisenet SDH-C85100BF 16 Channel 4MP Super HD DVR Video Security System with 2TB Hard Drive and 10 4MP Weather Resistant Bullet Cameras (SDC-89440BF) - (Certified Refurbished) 
+2019-02-20 17:49:13 INFO com.qa.pages.AddCartPage Product Name : Power Strip Tower JACKYLED Surge Protector Electric Charging Station 3000W 13A 16AWG 10 Outlet Plugs with 4 USB Slot + 6ft Cord Wire Extension Universal Socket for PC Laptops Mobile 
+2019-02-20 17:49:15 INFO com.qa.pages.AddCartPage Product Name : Canon EOS 5D Mark IV Full Frame Digital SLR Camera Body (Certified Refurbished) 
+2019-02-20 17:49:16 INFO com.qa.pages.AddCartPage Product Name : Canon EF-S 55-250mm F4-5.6 is STM Lens for Canon SLR Cameras (Certified Refurbished) 
+2019-02-20 17:49:17 INFO com.qa.pages.AddCartPage Product Name : Night Vision Hidden Spy Camera, QUANDU WiFi Smoke Detector Hidden Camera DVR Mini Nanny Cam with Motion Detection for Home Security Surveillance Apps for iOS/Android/PC/Mac 
+2019-02-20 17:49:18 INFO com.qa.pages.AddCartPage Product Name : Amazon Cloud Cam Security Camera, Works with Alexa 
+2019-02-20 17:49:19 INFO com.qa.pages.AddCartPage Product Name : Canon EOS Rebel T6 Digital SLR Camera with 18-55mm EF-S f/3.5-5.6 is II Lens + 58mm Wide Angle Lens + 2X Telephoto Lens + Flash + 48GB SD Memory Card + UV Filter Kit + Tripod + Full Accessory Bundle 
+2019-02-20 17:49:20 INFO com.qa.pages.AddCartPage Product Name : Amcrest HD 1080-Lite 8CH Video Security Camera System w/ 4 720P IP67 Outdoor Cameras, 65ft Night Vision, Hard Drive Not Included, Supports AHD, CVI, TVI, 960H & Amcrest IP Cameras (AMDVTENL8-4B-B) 
+2019-02-20 17:49:24 INFO com.qa.pages.AddCartPage Product Name : Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) 
+2019-02-20 17:49:40 INFO com.qa.pages.AddCartPage priceInCart.getText(): $59.98 
+2019-02-20 17:49:40 INFO com.qa.pages.AddCartPage quantityInCart.getText(): 8 
+2019-02-20 17:49:40 INFO com.qa.pages.AddCartPage subtotPrice: 59.98 
+2019-02-20 17:49:40 INFO com.qa.pages.AddCartPage stPrice : 479.84 
+2019-02-20 17:49:40 INFO com.qa.pages.AddCartPage subTotalPrice : true value of floats: 479.84 
+2019-02-20 17:49:40 INFO com.qa.steps.Hooks >>> @After Hook Step Starts 
+2019-02-20 17:49:41 INFO com.qa.steps.Hooks >>> @After Hook Step ends 
+2019-02-20 17:49:41 INFO com.qa.steps.Hooks >>> @Sending mail  
+2019-02-20 17:56:52 INFO com.qa.steps.Hooks Scenario is running: Product page subtotal price sum is correct 
+2019-02-20 17:56:59 INFO com.qa.driver.DriverManager >>> Chrome Driver initialized 
+2019-02-20 17:57:07 INFO com.qa.steps.Hooks >>> @Before Hook Step ends 
+2019-02-20 17:57:15 INFO com.qa.pages.AddCartPage Product Name : Samsung ST30 10 MP Compact Digital Camera (Purple) (Certified Refurbished) 
+2019-02-20 17:57:16 INFO com.qa.pages.AddCartPage Product Name : Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) 
+2019-02-20 17:57:17 INFO com.qa.pages.AddCartPage Product Name : CANON 20.2-Megapixel PowerShot(R) SX620 Digital Camera (Black) (Certified Refurbished) 
+2019-02-20 17:57:18 INFO com.qa.pages.AddCartPage Product Name : Nest Security Camera, Keep An Eye On What Matters to You, From Anywhere, For Indoor Use, Works with Alexa 
+2019-02-20 17:57:19 INFO com.qa.pages.AddCartPage Product Name : Panasonic DMC-TS25 Waterproof Digital Camera with 2.7-Inch LCD (Orange) DMC-TS25D (Certified Refurbished) 
+2019-02-20 17:57:20 INFO com.qa.pages.AddCartPage Product Name : Hidden Spy Camera Night Vision - Home Surveillance Security Cameras - Wireless Nanny Cams - USB Wall Phone Charger Spycam - Motion Sensor Video Camaras - Mini Portable Cop Cam 
+2019-02-20 17:57:21 INFO com.qa.pages.AddCartPage Product Name : Nikon Coolpix A900 4K Wi-Fi Digital Camera (Silver) - (Certified Refurbished) 
+2019-02-20 17:57:22 INFO com.qa.pages.AddCartPage Product Name : Arlo - Wireless Home Security Camera System with Motion Detection | Night vision, Indoor/Outdoor, HD Video, Wall Mount | Cloud Storage Included | 3 camera kit (VMS3330) 
+2019-02-20 17:57:23 INFO com.qa.pages.AddCartPage Product Name : Canon PowerShot SX530 HS - Wi-Fi Enabled Digital Camera with deluxe accessory bundle including 32GB SDHC memory card Class 10 & lens cleaning kit + Extra Battery & AC/DC Turbo Travel Charger. 
+2019-02-20 17:57:25 INFO com.qa.pages.AddCartPage Product Name : Canon Powershot SX530 HS 16.0 MP Digital Camera with 50x Zoom, Wi-Fi & 1080p Full HD Video + Extra Battery + 32GB Memory + Spider Flexible Tripod + Deluxe Carrying Case + Prime Seller Cleaning Cloth 
+2019-02-20 17:57:26 INFO com.qa.pages.AddCartPage Product Name : Fujifilm XP125 Waterproof Digital Camera, Graphite with Lime (Certified Refurbished) 
+2019-02-20 17:57:27 INFO com.qa.pages.AddCartPage Product Name : Spy Camera with WiFi Digital IP Signal, Recording & Remote Internet Access, Camera Hidden in a 6.5” Plug-in Air Freshener (This Unit is not Small) 
+2019-02-20 17:57:28 INFO com.qa.pages.AddCartPage Product Name : KKmoon 4.3" LCD Digital Peephole Viewer 160° PIR Door Eye Doorbell Camera IR Night Vision Photo Taking/Video Recording for Home Security 
+2019-02-20 17:57:29 INFO com.qa.pages.AddCartPage Product Name : Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 is II Lens, Built-in WiFi and NFC - Black (Certified Refurbished) 
+2019-02-20 17:57:30 INFO com.qa.pages.AddCartPage Product Name : Samsung Wisenet SDH-B74081BN 8 Channel 1080P Full HD DVR Video Security System with 2TB Hard Drive and 8 1080p Weather Resistant Bullet Cameras (SDC-9443BC) - (Certified Refurbished) 
+2019-02-20 17:57:31 INFO com.qa.pages.AddCartPage Product Name : Samsung Wisenet SDH-C85100BF 16 Channel 4MP Super HD DVR Video Security System with 2TB Hard Drive and 10 4MP Weather Resistant Bullet Cameras (SDC-89440BF) - (Certified Refurbished) 
+2019-02-20 17:57:33 INFO com.qa.pages.AddCartPage Product Name : Canon EOS 5D Mark IV Full Frame Digital SLR Camera Body (Certified Refurbished) 
+2019-02-20 17:57:34 INFO com.qa.pages.AddCartPage Product Name : Samsung SDH-B74041 8 Channel 1080p HD 1TB Security Camera System with 4 Outdoor BNC Bullet Cameras SDC-9443BC (Certified Refurbished) 
+2019-02-20 17:57:36 INFO com.qa.pages.AddCartPage Product Name : Amazon Cloud Cam Security Camera, Works with Alexa 
+2019-02-20 17:57:37 INFO com.qa.pages.AddCartPage Product Name : Canon EOS Rebel T6 Digital SLR Camera with 18-55mm EF-S f/3.5-5.6 is II Lens + 58mm Wide Angle Lens + 2X Telephoto Lens + Flash + 48GB SD Memory Card + UV Filter Kit + Tripod + Full Accessory Bundle 
+2019-02-20 17:57:38 INFO com.qa.pages.AddCartPage Product Name : Night Vision Hidden Spy Camera, QUANDU WiFi Smoke Detector Hidden Camera DVR Mini Nanny Cam with Motion Detection for Home Security Surveillance Apps for iOS/Android/PC/Mac 
+2019-02-20 17:57:39 INFO com.qa.pages.AddCartPage Product Name : Amcrest HD 1080-Lite 8CH Video Security Camera System w/ 4 720P IP67 Outdoor Cameras, 65ft Night Vision, Hard Drive Not Included, Supports AHD, CVI, TVI, 960H & Amcrest IP Cameras (AMDVTENL8-4B-B) 
+2019-02-20 17:57:41 INFO com.qa.pages.AddCartPage Product Name : Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) 
+2019-02-20 17:58:05 INFO com.qa.pages.AddCartPage priceInCart.getText(): $59.98 
+2019-02-20 17:58:05 INFO com.qa.pages.AddCartPage quantityInCart.getText(): 8 
+2019-02-20 17:58:05 INFO com.qa.pages.AddCartPage subtotPrice: 59.98 
+2019-02-20 17:58:05 INFO com.qa.pages.AddCartPage stPrice : 479.84 
+2019-02-20 17:58:05 INFO com.qa.pages.AddCartPage SubTotalPrice : true value of floats: 479.84 
+2019-02-20 17:58:05 INFO com.qa.steps.Hooks >>> @After Hook Step Starts 
+2019-02-20 17:58:07 INFO com.qa.steps.Hooks >>> @After Hook Step ends 
+2019-02-20 17:58:07 INFO com.qa.steps.Hooks >>> @Sending mail  
+2019-02-20 18:02:19 INFO com.qa.steps.Hooks Scenario is running: Product page subtotal price sum is correct 
+2019-02-20 18:02:35 INFO com.qa.driver.DriverManager >>> Chrome Driver initialized 
+2019-02-20 18:02:46 INFO com.qa.steps.Hooks >>> @Before Hook Step ends 
+2019-02-20 18:02:58 INFO com.qa.pages.AddCartPage Product Name : Samsung ST30 10 MP Compact Digital Camera (Purple) (Certified Refurbished) 
+2019-02-20 18:02:59 INFO com.qa.pages.AddCartPage Product Name : Nest Security Camera, Keep An Eye On What Matters to You, From Anywhere, For Indoor Use, Works with Alexa 
+2019-02-20 18:03:01 INFO com.qa.pages.AddCartPage Product Name : CANON 20.2-Megapixel PowerShot(R) SX620 Digital Camera (Black) (Certified Refurbished) 
+2019-02-20 18:03:03 INFO com.qa.pages.AddCartPage Product Name : Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) 
+2019-02-20 18:03:04 INFO com.qa.pages.AddCartPage Product Name : Panasonic DMC-TS25 Waterproof Digital Camera with 2.7-Inch LCD (Orange) DMC-TS25D (Certified Refurbished) 
+2019-02-20 18:03:05 INFO com.qa.pages.AddCartPage Product Name : Nikon Coolpix A900 4K Wi-Fi Digital Camera (Silver) - (Certified Refurbished) 
+2019-02-20 18:03:07 INFO com.qa.pages.AddCartPage Product Name : Hidden Spy Camera Night Vision - Home Surveillance Security Cameras - Wireless Nanny Cams - USB Wall Phone Charger Spycam - Motion Sensor Video Camaras - Mini Portable Cop Cam 
+2019-02-20 18:03:08 INFO com.qa.pages.AddCartPage Product Name : Arlo - Wireless Home Security Camera System with Motion Detection | Night vision, Indoor/Outdoor, HD Video, Wall Mount | Cloud Storage Included | 3 camera kit (VMS3330) 
+2019-02-20 18:03:09 INFO com.qa.pages.AddCartPage Product Name : Canon PowerShot SX530 HS - Wi-Fi Enabled Digital Camera with deluxe accessory bundle including 32GB SDHC memory card Class 10 & lens cleaning kit + Extra Battery & AC/DC Turbo Travel Charger. 
+2019-02-20 18:03:10 INFO com.qa.pages.AddCartPage Product Name : Canon Powershot SX530 HS 16.0 MP Digital Camera with 50x Zoom, Wi-Fi & 1080p Full HD Video + Extra Battery + 32GB Memory + Spider Flexible Tripod + Deluxe Carrying Case + Prime Seller Cleaning Cloth 
+2019-02-20 18:03:12 INFO com.qa.pages.AddCartPage Product Name : Fujifilm XP125 Waterproof Digital Camera, Graphite with Lime (Certified Refurbished) 
+2019-02-20 18:03:13 INFO com.qa.pages.AddCartPage Product Name : Samsung Wisenet SDH-C85100BF 16 Channel 4MP Super HD DVR Video Security System with 2TB Hard Drive and 10 4MP Weather Resistant Bullet Cameras (SDC-89440BF) - (Certified Refurbished) 
+2019-02-20 18:03:15 INFO com.qa.pages.AddCartPage Product Name : Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 is II Lens, Built-in WiFi and NFC - Black (Certified Refurbished) 
+2019-02-20 18:03:17 INFO com.qa.pages.AddCartPage Product Name : Samsung Wisenet SDH-B74081BN 8 Channel 1080P Full HD DVR Video Security System with 2TB Hard Drive and 8 1080p Weather Resistant Bullet Cameras (SDC-9443BC) - (Certified Refurbished) 
+2019-02-20 18:03:18 INFO com.qa.pages.AddCartPage Product Name : Samsung SDH-B74041 8 Channel 1080p HD 1TB Security Camera System with 4 Outdoor BNC Bullet Cameras SDC-9443BC (Certified Refurbished) 
+2019-02-20 18:03:19 INFO com.qa.pages.AddCartPage Product Name : Canon EOS 5D Mark IV Full Frame Digital SLR Camera Body (Certified Refurbished) 
+2019-02-20 18:03:20 INFO com.qa.pages.AddCartPage Product Name : Power Strip Tower JACKYLED Surge Protector Electric Charging Station 3000W 13A 16AWG 10 Outlet Plugs with 4 USB Slot + 6ft Cord Wire Extension Universal Socket for PC Laptops Mobile 
+2019-02-20 18:03:21 INFO com.qa.pages.AddCartPage Product Name : Canon EF-S 55-250mm F4-5.6 is STM Lens for Canon SLR Cameras (Certified Refurbished) 
+2019-02-20 18:03:22 INFO com.qa.pages.AddCartPage Product Name : Night Vision Hidden Spy Camera, QUANDU WiFi Smoke Detector Hidden Camera DVR Mini Nanny Cam with Motion Detection for Home Security Surveillance Apps for iOS/Android/PC/Mac 
+2019-02-20 18:03:23 INFO com.qa.pages.AddCartPage Product Name : Amazon Cloud Cam Security Camera, Works with Alexa 
+2019-02-20 18:03:24 INFO com.qa.pages.AddCartPage Product Name : Canon EOS Rebel T6 Digital SLR Camera with 18-55mm EF-S f/3.5-5.6 is II Lens + 58mm Wide Angle Lens + 2X Telephoto Lens + Flash + 48GB SD Memory Card + UV Filter Kit + Tripod + Full Accessory Bundle 
+2019-02-20 18:03:25 INFO com.qa.pages.AddCartPage Product Name : Amcrest HD 1080-Lite 8CH Video Security Camera System w/ 4 720P IP67 Outdoor Cameras, 65ft Night Vision, Hard Drive Not Included, Supports AHD, CVI, TVI, 960H & Amcrest IP Cameras (AMDVTENL8-4B-B) 
+2019-02-20 18:03:29 INFO com.qa.pages.AddCartPage Product Name : Amcrest ProHD 1080P WiFi Camera 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black) 
+2019-02-20 18:03:45 INFO com.qa.pages.AddCartPage priceInCart.getText(): $59.98 
+2019-02-20 18:03:45 INFO com.qa.pages.AddCartPage quantityInCart.getText(): 8 
+2019-02-20 18:03:45 INFO com.qa.pages.AddCartPage subtotPrice: 59.98 
+2019-02-20 18:03:45 INFO com.qa.pages.AddCartPage stPrice : 479.84 
+2019-02-20 18:03:45 INFO com.qa.pages.AddCartPage SubTotalPrice : true value of floats: 479.84 
+2019-02-20 18:03:45 INFO com.qa.steps.Hooks >>> @After Hook Step Starts 
+2019-02-20 18:03:46 INFO com.qa.steps.Hooks >>> @After Hook Step ends 
+2019-02-20 18:03:46 INFO com.qa.steps.Hooks >>> @Sending mail  
